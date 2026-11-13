@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://watenmobile-web.github.io/abu-ahmed-aluminum/sitemap.xml
